@@ -1,0 +1,8 @@
+{
+  "name": "Remix Kamyar Grid Calculator",
+  "description": "Professional Survey Engineering Grid Leveling and Cut/Fill Calculator",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,25 @@
+node_modules
+.pnpm-store
+
+# Production build output
+dist
+build
+.vercel
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Android / IDE
+*.iml
+.gradle
+.kotlin
+/local.properties
+/.idea/
+.DS_Store
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+debug.keystore
